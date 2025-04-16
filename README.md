@@ -1,7 +1,9 @@
 🧾 Point Of Sale (Multi-User)
+
 This is a multi-user inventory management system built to help sellers efficiently track and manage their business. The system allows sellers to monitor stock levels, record customer purchases, and generate detailed reports to stay on top of their operations.
 
 🚀 Features
+
 User Authentication – Secure login system for multiple sellers
 
 Product Management – Add, update, or remove products from inventory
